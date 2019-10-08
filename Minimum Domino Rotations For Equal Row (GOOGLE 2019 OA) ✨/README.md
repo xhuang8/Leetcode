@@ -7,8 +7,7 @@ Example:
 Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
 
-<img src='https://imgur.com/7jGlPyP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/byBH2V9
+<img src='https://imgur.com/a/WYXDDWK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://imgur.com/byBH2V9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
