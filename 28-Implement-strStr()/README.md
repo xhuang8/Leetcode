@@ -1,14 +1,32 @@
 
-- You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+- Implement strStr().
 
-- You may assume the two numbers do not contain any leading zero, except the number 0 it self.ng amongst an array of strings. If there is no common prefix, return an empty string "".
+- Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack."".
 
-Example:
 
-Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
-Output: 7 -> 0 -> 8
+Example 1:
 
-Explanation: 342 + 465 = 807.
+Input: haystack = "hello", needle = "ll"
+
+Output: 2
+
+
+
+Example 2:
+
+Input: haystack = "aaaaa", needle = "bba"
+
+Output: -1
+
+
+
+Clarification:
+
+What should we return when needle is an empty string? This is a great question to ask during an interview.
+
+For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
+
+
 
 ## License
 
