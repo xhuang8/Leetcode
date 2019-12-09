@@ -9,7 +9,9 @@ Example 1:
 
 
 Input:     1         1
+
           / \       / \
+          
          2   3     2   3
 
 
@@ -25,7 +27,9 @@ Example 2:
 
 
 Input:     1         1
+
           /           \
+          
          2             2
 
 
@@ -42,7 +46,9 @@ Example 3:
 
 
 Input:     1         1
+
           / \       / \
+          
          2   1     1   2
 
 
