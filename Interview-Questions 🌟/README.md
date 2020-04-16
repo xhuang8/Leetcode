@@ -4,7 +4,8 @@
 
 2. Given two integers, l and r, print all the odd numbers between l and r(l and r inclusive). The function must return an array of integers denoting the odd numbers between l and r.
 
-
+3. Given a hex string, convert that string to a decimal integer C.
+(Note: hex string should have upper and lowercase)
 
 
 ## License
