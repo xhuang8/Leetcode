@@ -14,7 +14,7 @@ The function must return a results array with the number of 1's stored at result
 
 sample case: sample input: n = 161 sample output: 3 1 3 8 explanation: 161 convert to 1010 0001
 
-
+5. Removing duplicates of an array and returning an array of only unique elements
 
 ## License
 
