@@ -7,6 +7,14 @@
 3. Given a hex string, convert that string to a decimal integer C.
 (Note: hex string should have upper and lowercase)
 
+4. Counting how many 1-bits
+Given an integer n, ccomplete the function getOneBits.
+
+The function must return a results array with the number of 1's stored at results[0] followed by the position of all 1's in its binary representation in ascending order
+
+sample case: sample input: n = 161 sample output: 3 1 3 8 explanation: 161 convert to 1010 0001
+
+
 
 ## License
 
